@@ -1,0 +1,5 @@
+version: '2'
+services:
+  bot:
+    build: .
+    image: gaivoronskiy/telegram_bot_js:latest
